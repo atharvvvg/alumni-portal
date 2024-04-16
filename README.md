@@ -1,6 +1,6 @@
 # alumni-portal
 Alumni management portal project developed for Software Engineering BCSE301P
-
+(all codes in main branch)
 
 # Prerequisites-
 XAMPP control panel
